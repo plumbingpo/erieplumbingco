@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erieplumbingco.com/sitemap.xml
